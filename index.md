@@ -20,34 +20,15 @@
 * The project is about mining the user images offline for one time and whenever the new images come in and then giving the user the related images as per his/her search based on the keywords he/she enters.
 * This project was implemted using **Python**, where the basic model was created and trained which can identify particular searched object in the image and give all the images as a result which contains it.The obejct were limited to Cat, Dog and Person.
 
-### Markdown
+## Master's Projects:
+### 1. Risk Game
+* Risk Game is build using various java concepts. A Risk game consists of a connected graph map representing a world map, where each node is a country and each edge represents adjacency between countries. Two or more players can play by placing armies on countries they own, from which they can attack adjacent countries to conquer them. The objective of the game is to conquer all countries on the map.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 2. Distributed Player Status System
+* A distributed system to manage player status across multiple game servers used by players and administrators.
 
-```markdown
-Syntax highlighted code block
+### 3. AI Face Mask Detector
+* AI that can analyze face images and detect whether a person is wearing a face mask or not. It recognizes three different classes: person without face mask, person with face mask and not a person.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rajmistry2298/Raj-Mistry/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 4. Studybot
+* An intelligent agent that can answer university course-related questions using a knowledge graph and natural language processing.
