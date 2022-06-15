@@ -1,6 +1,6 @@
 # Academic Projects:
 ## Bechlor's Projects:
-### 1. Assignment Partner
+### 1. Assignment Partner 
 * It is a web-based application which provides platform to students where they can post their assignment questions which are difficult for them to solve. Other students can see these posted questions and can help each other.
 * During my bachlor's this was the first ever project I worked on. In this prject I worked in team of 2 people. We implemented this **rsponsive web-based application** using **HTML and CSS**.
 
@@ -23,12 +23,16 @@
 ## Master's Projects:
 ### 1. Risk Game
 * Risk Game is build using various java concepts. A Risk game consists of a connected graph map representing a world map, where each node is a country and each edge represents adjacency between countries. Two or more players can play by placing armies on countries they own, from which they can attack adjacent countries to conquer them. The objective of the game is to conquer all countries on the map.
+* Link: https://github.com/Zankhana1995/riskgame-SOEN-6441-Java
 
 ### 2. Distributed Player Status System
 * A distributed system to manage player status across multiple game servers used by players and administrators.
+* Link: https://github.com/rajmistry2298/COMP-6231
 
 ### 3. AI Face Mask Detector
 * AI that can analyze face images and detect whether a person is wearing a face mask or not. It recognizes three different classes: person without face mask, person with face mask and not a person.
+* Link: https://github.com/ypandya614929/COMP-6721-AI-Project
 
 ### 4. Studybot
 * An intelligent agent that can answer university course-related questions using a knowledge graph and natural language processing.
+* Link: https://github.com/rajmistry2298/COMP-6741
